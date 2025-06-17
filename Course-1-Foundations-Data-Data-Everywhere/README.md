@@ -4,7 +4,8 @@ This folder contains my notes and resources for the first course of the Google D
 
 ## About the Course
 
-The Google Data Analytics Certificate introduces foundational data analytics concepts and skills. It covers data collection, cleaning, analysis, and visualization using real-world datasets. The course emphasizes critical thinking and effective communication of data insights to help solve business problems.
+This course provides an introduction to the overall data analysis process. It covers key concepts such as data collection, cleaning, organization, and interpretation. The course lays a strong foundation for understanding how data-driven decisions are made in real-world business settings.
+
 
 ## Contents
 
