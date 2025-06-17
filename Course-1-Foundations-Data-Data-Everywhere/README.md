@@ -13,7 +13,7 @@ This course provides an introduction to the overall data analysis process. It co
   PDFs and documents covering all modules in this course, split by module.
 
 - `links.md`  
-  A curated list of important external links, tutorials, videos, and references relevant to this course.
+  A curated list of important external links, and references relevant to this course.
 
 - `certificate.pdf`  
   Official certificate of completion for Course 1.
