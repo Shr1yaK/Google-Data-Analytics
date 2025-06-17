@@ -1,6 +1,6 @@
 # Course 1: Foundations: Data, Data, Everywhere
 
-This folder contains my notes and resources for the first course of the Google Data Analytics Certificate.
+This folder contains my notes and resources for the first course of the Google Data Analytics Professional Certificate.
 
 ## About the Course
 
